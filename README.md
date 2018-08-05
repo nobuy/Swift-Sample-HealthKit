@@ -1,2 +1,2 @@
 # Swift-Sample-HealthKit
-Sample Coder of HealthKit
+Sample Code of HealthKit
